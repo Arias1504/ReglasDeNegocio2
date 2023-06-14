@@ -1,0 +1,5 @@
+C:\Users\jefer\Desktop\ProgSw\Practica2\libRnMiCiudad\libRnMiCiudad\bin\Debug\libRnMiCiudad.dll
+C:\Users\jefer\Desktop\ProgSw\Practica2\libRnMiCiudad\libRnMiCiudad\bin\Debug\libRnMiCiudad.pdb
+C:\Users\jefer\Desktop\ProgSw\Practica2\libRnMiCiudad\libRnMiCiudad\obj\Debug\libRnMiCiudad.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\Practica2\libRnMiCiudad\libRnMiCiudad\obj\Debug\libRnMiCiudad.dll
+C:\Users\jefer\Desktop\ProgSw\Practica2\libRnMiCiudad\libRnMiCiudad\obj\Debug\libRnMiCiudad.pdb

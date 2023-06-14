@@ -1,0 +1,15 @@
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\bin\Debug\appPractica2.exe.config
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\bin\Debug\appPractica2.exe
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\bin\Debug\appPractica2.pdb
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\obj\Debug\appPractica2.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\obj\Debug\appPractica2.frmMiCiudad.resources
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\obj\Debug\appPractica2.Properties.Resources.resources
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\obj\Debug\appPractica2.csproj.GenerateResource.cache
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\obj\Debug\appPractica2.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\obj\Debug\appPractica2.exe
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\obj\Debug\appPractica2.pdb
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\bin\Debug\libOpeMiCiudad.dll
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\bin\Debug\libRnMiCiudad.dll
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\bin\Debug\libOpeMiCiudad.pdb
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\bin\Debug\libRnMiCiudad.pdb
+C:\Users\jefer\Desktop\ProgSw\Practica2\appPractica2\appPractica2\obj\Debug\appPractica2.csproj.CopyComplete

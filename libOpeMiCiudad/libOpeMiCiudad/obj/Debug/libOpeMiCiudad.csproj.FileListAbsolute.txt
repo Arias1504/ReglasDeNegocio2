@@ -1,0 +1,9 @@
+C:\Users\jefer\Desktop\ProgSw\Practica2\libOpeMiCiudad\libOpeMiCiudad\bin\Debug\libOpeMiCiudad.dll
+C:\Users\jefer\Desktop\ProgSw\Practica2\libOpeMiCiudad\libOpeMiCiudad\bin\Debug\libOpeMiCiudad.pdb
+C:\Users\jefer\Desktop\ProgSw\Practica2\libOpeMiCiudad\libOpeMiCiudad\bin\Debug\libRnMiCiudad.dll
+C:\Users\jefer\Desktop\ProgSw\Practica2\libOpeMiCiudad\libOpeMiCiudad\bin\Debug\libRnMiCiudad.pdb
+C:\Users\jefer\Desktop\ProgSw\Practica2\libOpeMiCiudad\libOpeMiCiudad\obj\Debug\libOpeMiCiudad.csproj.AssemblyReference.cache
+C:\Users\jefer\Desktop\ProgSw\Practica2\libOpeMiCiudad\libOpeMiCiudad\obj\Debug\libOpeMiCiudad.csproj.CoreCompileInputs.cache
+C:\Users\jefer\Desktop\ProgSw\Practica2\libOpeMiCiudad\libOpeMiCiudad\obj\Debug\libOpeMiCiudad.csproj.CopyComplete
+C:\Users\jefer\Desktop\ProgSw\Practica2\libOpeMiCiudad\libOpeMiCiudad\obj\Debug\libOpeMiCiudad.dll
+C:\Users\jefer\Desktop\ProgSw\Practica2\libOpeMiCiudad\libOpeMiCiudad\obj\Debug\libOpeMiCiudad.pdb
